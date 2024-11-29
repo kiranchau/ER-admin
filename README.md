@@ -1,2 +1,2 @@
-# ER-admin
-Elevated Revenue Admin Panel
+# admin-panel
+
